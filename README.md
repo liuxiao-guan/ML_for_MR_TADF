@@ -2,18 +2,18 @@
 The code for this study
 ## Set up
 
-Install conda environment
+**Install conda environment**
 
 ```
 conda env create -f ml.yaml
 conda activate gxl_ml
 ```
 
-Data Preparation
+**Data Preparation**
 
 Organize the data into the format of machine_learning.xlsx and replace the corresponding file paths in the code.
 
-Run 
+**Run**
 
 ```
 python Poly_logisticregssion.py
